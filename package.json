@@ -1,4 +1,4 @@
-{
+{  
   "name": "fcc-api-projects-boilerplate",
   "version": "0.0.1",
   "description": "An FCC Backend Challenge",
@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues"
   },
-  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
+  "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp/views/index.html",
   "author": "freeCodeCamp <team@freecodecamp.org>",
   "keywords": [
     "node",
