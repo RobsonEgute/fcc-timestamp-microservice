@@ -1,3 +1,5 @@
 {pkgs}: {
-  deps = [ ];
+  deps = [
+    pkgs.openssh_with_kerberos
+   ];
 }
